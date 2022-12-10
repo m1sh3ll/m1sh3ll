@@ -12,7 +12,7 @@ I currently work in e-commerce with two clients that are Amazon private brands d
 I currently only speak 3 main programming languages, that is, C#, VB .Net, and PHP. But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode.
   
 <h3>History</h3>
-<p>Ever since I learned Visual Basic in high school around 1994 I was hooked on coding. It was either that or major in music. That's because I had a huge interest in playing rock guitar and listening to death metal. 
+<p>Ever since I learned Visual Basic in high school around 1994 I was hooked on coding. It was either that or major in music. That's because I had a huge interest in playing rock guitar and listening to heavy metal. 
 
 I built my first HTML web page in 1999 on AOL pages. In 2000, I ended up buying my own custom domain/email address for 80 bucks from Network Solutions and remember having a hacker friend host it for free from his house via his DSL. It was around then that I learned Unix, C Programming, and Shell Scripting through UMass online courses.  
 
