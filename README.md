@@ -29,9 +29,7 @@ In 2022, I recieved my Computer Science degree, a Full Stack Web Development cer
 <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <br>
-<a href="https://github.com/m1sh3ll">
-<img src="https://camo.githubusercontent.com/fd507308f83797c9abf619b85f6be0f3b8344abf7551f8c0eec8210499993e28/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7370656e6365726c6570696e6526686964653d73746172732673686f775f69636f6e733d74727565267468656d653d6461726b" alt="m1sh3ll's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=m1sh3ll&amp;hide=stars&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
-</a>
+
 
 <h3>My List of Fun Nerd Stuff</h3>
 * Creating software that automates simple tasks to reduce data entry errors and increases productivity<br>
