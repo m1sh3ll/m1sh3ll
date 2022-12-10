@@ -4,17 +4,16 @@
 </h2>
 
 <h3>About Me</h3>
-I am certified in hacking/pentesting, have two jobs, an eBay/Walmart/online Site business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode. 
+I am certified in hacking/pentesting, have two jobs, an eBay/Walmart/online Site business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode.
   
 <h3>History</h3>
 <p>Ever since I learned Visual Basic in high school around 1994 I was hooked on coding. It was either that or major in music. That's because I had a huge interest in playing rock guitar, playing Metallica riffs, and listening to heavy metal. 
-
+<br>
 I built my first HTML web page in 1999 on AOL pages. In 2000, I ended up buying my own custom domain for 80 bucks from Network Solutions and remember having a hacker friend host it for free from his house via his DSL. It was around then that I learned Unix, C Programming, and Shell Scripting through UMass online courses.  
-
-My thick-glasses hacker friend (TheN4orcer) inspired me to learn Linux and networking. This is the same guy that had got a good paying job at LIU by hacking his school and telling them where they have vulnerabilities. I ended up going the wrong route and I went to a tech school for Network Engineering instead of Web Development (due to bad advice of admissions). It was great and I was ecstatic that I got a free IBM Thinkpad where we dual booted Windows and Red Hat back when VMWare was just a small thing.
-
+<br>
+My thick-glasses hacker friend (TheN4orcer) inspired me to learn Linux and networking. This is the same guy that had got a good paying job at LIU by hacking his school and telling them where they have vulnerabilities. I ended up going the wrong route and I enrolled in a tech school for Network Engineering instead of Web Development (due to bad advice of admissions). It was awesome and I was ecstatic. I got a free IBM Thinkpad where we dual booted Windows and Red Hat. Learning this was fun back when VMWare wasn't yet a thing and Windows 2000 was the best thing yet. I also enjoyed learning Cisco routers and switches, Windows Server, Active Directory, Novell Netware, and Microsoft Exchange.
+<br>
 Years later, I started my own e-commerce business and then working for friends doing their eBay and Amazon listings for low pay. It was then that I got to edit PHP templates and changed all the graphics without knowing anything but HTML. I had alot of friends who were mentors in everything from helping me a business to hosting my own websites.
-
 <h3>Past Projects</h3>
 For over 20 years, I was an old-school programmer (it was just a hobby). I only programmed procedural type desktop WinForms GUIs with Visual Basic 6, Visual Basic .NET, and more recently C# .NET. I never used a database because i had csv and flat files.
 <br>
