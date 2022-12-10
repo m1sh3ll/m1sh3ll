@@ -4,7 +4,7 @@
 </h2>
 
 <h3>About Me</h3>
-I am certified in hacking/pentesting, have two jobs, an eBay/Walmart business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode. 
+I am certified in hacking/pentesting, have two jobs, an eBay/Walmart/online Site business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode. 
   
 <h3>History</h3>
 <p>Ever since I learned Visual Basic in high school around 1994 I was hooked on coding. It was either that or major in music. That's because I had a huge interest in playing rock guitar, playing Metallica riffs, and listening to heavy metal. 
@@ -26,11 +26,23 @@ As for work, we do custom products in different colors. For fun, starting in 201
 In 2022, I recieved my Computer Science degree, a Full Stack Web Development certificate and Front End certificate. I am now even more educated and passionate about coding. You can view all of my degrees and certifications on my LinkedIn profile.
 <br>
 <a href="https://www.linkedin.com/in/m1-sh3ll/" rel="nofollow">
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<br>
+<a href="https://github.com/m1sh3ll">
+<img src="https://camo.githubusercontent.com/fd507308f83797c9abf619b85f6be0f3b8344abf7551f8c0eec8210499993e28/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7370656e6365726c6570696e6526686964653d73746172732673686f775f69636f6e733d74727565267468656d653d6461726b" alt="m1sh3ll's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=m1sh3ll&amp;hide=stars&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
+</a>
 
-<h3>Fun Stuff</h3>
-*Creating software that automates simple tasks to reduce data entry errors and increases productivity.
-*Hacking into (and getting a shell on) Windows
-*Tinkering around with my collection of over 30 VMs
+<h3>My List of Fun Nerd Stuff</h3>
+* Creating software that automates simple tasks to reduce data entry errors and increases productivity<br>
+* Hacking into (and getting a shell on) Windows<br>
+* Tinkering around with my home network: 3 laptops, 1 PC, 1 Server => all with 64GB RAM :), Over 30+ VMs of various OS/Servers, 2 Macs (1 x Intel and 1 x M1)<br>
+* Using 64-bit Excel formulas to build massive SQL statements to add product listings to my website via MySQL in PHPMyAdmin
+* Using any CLI to manage anything (ie: AWS containers and leaarning Shopify theme/app development)
+* Kali Linux
+* Photoshop (I'm also good at photography/editing, oh wait did i forget to mention that?) 
+My Photos all copyright@Me: https://www.flickr.com/photos/145705562@N06/
 
+<h3>Favorite Websites</h3>
+* HackTheBox, PentesterLab, PentesterAcademy, Offensive Security
   
