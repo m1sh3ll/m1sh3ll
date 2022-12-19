@@ -17,7 +17,7 @@ Years later, I started my own e-commerce business and then working for friends d
 <h3>Past Projects</h3>
 For over 20 years, I was an old-school programmer (it was just a hobby). I only programmed procedural type desktop WinForms GUIs with Visual Basic 6, Visual Basic .NET, and more recently C# .NET. I never used a database because i had csv and flat files.
 <br><br>
-In 2004 I programmed and sold a Cisco CCNA certification exam program (with a MS Access database file as a back end) that I created with a graphic router simulator GUI & flash cards, and sold the application on eBay by shipping out installer CDs. The exam editor was built in .NET which was big technology back then.
+In 2004 I started writing and editing my own educational software. I wrote questions, software, and sold it on eBay. It was a Cisco CCNA certification exam package. It used a database of questions and answers via a MS Access database file. I also created a graphic "router/command line simulator" GUI & flash cards, and sold the application by shipping out autorun installer CDs. The exam editor was built in .NET which was big technology back then.
 <br><br>
 As for work, we do custom products in different colors. For fun, starting in 2013, I made a program where I add the custom image, press a button, and it saves and FTPs 146+ product image variations along with the data feed that I can then manually upload to Amazon.
 
