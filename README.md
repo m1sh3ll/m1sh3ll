@@ -4,7 +4,7 @@
 </h2>
 
 <h3>About Me</h3>
-I am certified in hacking/pentesting, have two jobs, an eBay/Walmart/online Site business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My 2 jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode.
+I am certified in hacking/pentesting, have two jobs, an eBay/Walmart/online Site business, own and host 25+ domains, and go to 2 colleges (UI/UX at SNHU@Kenzie, and Masters-Cybersecurity at Katz). My 2 jobs are in e-commerce with two clients that are Amazon private brands doing their listings/ads/design. I am also a hobbyist programmer/gamer/hacker in my free time. The jobs in total have about 25 websites and brand sites with over 50,000+ products. I currently only speak a few languages, that is, C#, VB .Net, PHP, and Shell Code (lol). But I can basically translate any code such as Java, JavaScript/TypeScript, into pseudocode.
   
 <h3>History</h3>
 <p>Ever since I learned Visual Basic in high school around 1994 I was hooked on coding. It was either that or major in music. That's because I had a huge interest in playing rock guitar, playing Metallica riffs, and listening to heavy metal. 
