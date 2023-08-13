@@ -25,59 +25,32 @@
 
 ## Technologies Used
 
-*HTML, CSS, Bootstrap, Figma, Photoshop, Illustrator, WordPress, GitHub, GitHub Pages, VS Code*
+*HTML, CSS, C#.NET, VB.NET, PHP, Bootstrap, Figma, Photoshop, Illustrator, WordPress, GitHub, GitHub Pages, VS Code*
 
-# Sample Web Pages and Links to my Works
-
-https://m1sh3ll.github.io/myDemos/my-blogs/UI-UX-BlogSite1/
+# Sample Links to my Works
 
 https://portfolium.com/ShellyNesbitt?ref=ShellyNesbitt
-
-https://m1sh3ll.github.io/portfolio/
 
 https://www.flickr.com/photos/145705562@N06/with/40974813311/
 
 https://www.linkedin.com/in/m1-sh3ll/
 
+## My Main Git Repos
+
+https://github.com/m1sh3ll/myDemos
+
+https://m1sh3ll.github.io/portfolio/
+
+https://github.com/m1sh3ll/CS-tutorials-snippets
+
+https://github.com/m1sh3ll/VB-tutorials-snippets
+
 ### License
 
 MIT License
-
-Copyright (c) 2023 Michelle Nesbitt
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-
-of this software and associated documentation files (the "Software"), to deal
-
-in the Software without restriction, including without limitation the rights
-
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-
-copies of the Software, and to permit persons to whom the Software is
-
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-
-SOFTWARE.
-
 Copyright (c) 2023 ***Michelle Nesbitt***
 
-```
 
 
-```
+
+
