@@ -23,10 +23,6 @@
 
 *Master available on Github user m1sh3ll, email: github.m1sh3ll@nerdymail.com*
 
-## Technologies Used
-
-*HTML, CSS, C#.NET, VB.NET, PHP, Bootstrap, Figma, Photoshop, Illustrator, WordPress, GitHub, GitHub Pages, VS Code*
-
 # Sample Links to my Works
 
 https://portfolium.com/ShellyNesbitt?ref=ShellyNesbitt
