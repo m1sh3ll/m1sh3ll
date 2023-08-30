@@ -2,7 +2,6 @@
 
 ## Full Stack Developer
 
-
 ## Description
 
 *This is a simple repo I created for showing my daily design and coding work.*
@@ -37,16 +36,7 @@ https://github.com/m1sh3ll/myDemos
 
 https://m1sh3ll.github.io/portfolio/
 
-https://github.com/m1sh3ll/CS-tutorials-snippets
-
-https://github.com/m1sh3ll/VB-tutorials-snippets
-
 ### License
 
 MIT License
 Copyright (c) 2023 ***Michelle Nesbitt***
-
-
-
-
-
