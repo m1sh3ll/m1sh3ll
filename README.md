@@ -32,7 +32,7 @@ https://www.linkedin.com/in/m1-sh3ll/
 
 ## My Main Git Repos
 
-https://github.com/m1sh3ll/myDemos
+https://github.com/m1sh3ll/myPortfolio
 
 https://m1sh3ll.github.io/portfolio/
 
