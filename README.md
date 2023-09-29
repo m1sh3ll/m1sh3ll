@@ -20,8 +20,6 @@
 
 https://m1sh3ll.github.io/portfolio/
 
-https://www.flickr.com/photos/145705562@N06/with/40974813311/
-
 **LinkedIn**:
 
 https://www.linkedin.com/in/m1-sh3ll/
