@@ -14,11 +14,9 @@
 
 *Email: github.m1sh3ll@nerdymail.com*
 
-# Sample Links to my Works
+# Links to my Works
 
 **https://github.com/m1sh3ll/myPortfolio**
-
-https://m1sh3ll.github.io/portfolio/
 
 **LinkedIn**:
 
