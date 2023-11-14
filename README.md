@@ -14,13 +14,9 @@
 
 *Email: github.m1sh3ll@nerdymail.com*
 
-# Links to my Works
+# Links to my Portfolio
 
 **https://www.michellenesbitt.com**
-
-**LinkedIn**:
-
-https://www.linkedin.com/in/m1-sh3ll/
 
 On LinkedIn, you can preview all of my badges and certificates.
 
