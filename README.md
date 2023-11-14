@@ -18,8 +18,6 @@
 
 **https://www.michellenesbitt.com**
 
-On LinkedIn, you can preview all of my badges and certificates.
-
 ### License
 
 MIT License
