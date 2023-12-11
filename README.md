@@ -10,10 +10,6 @@
 
 **Simply clone the repo, or download my code's zip file by clicking the green button.*
 
-## Support and contact details
-
-*Email: github.m1sh3ll@nerdymail.com*
-
 # Links to my Portfolio
 
 **https://www.michellenesbitt.com**
