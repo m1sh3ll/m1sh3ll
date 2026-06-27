@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f17"/>
+      <stop offset="100%" stop-color="#11161f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#5b8cff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5b8cff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+
+  <text x="70" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" fill="#e8edf6">
+    Michelle Nesbitt
+  </text>
+  <text x="70" y="185" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#9aa6b8">
+    C#/.NET Developer — Web &amp; Desktop
+  </text>
+
+  <text x="70" y="235" font-family="Consolas, monospace" font-size="20" fill="#5b8cff">
+    m1sh3ll3.com →
+  </text>
+
+  <circle cx="1140" cy="150" r="80" fill="none" stroke="#232b3a" stroke-width="2"/>
+  <circle cx="1140" cy="150" r="50" fill="none" stroke="#5b8cff" stroke-width="2" stroke-opacity="0.6"/>
+</svg>
