@@ -20,8 +20,14 @@
     C#/.NET Developer — Web &amp; Desktop
   </text>
 
-  <text x="70" y="235" font-family="Consolas, monospace" font-size="20" fill="#5b8cff">
-    View My Portfolio →
+  <!-- MicroApps brand badge -->
+  <rect x="70" y="208" width="38" height="38" rx="10" fill="#161c27" stroke="#232b3a"/>
+  <text x="89" y="234" font-family="Consolas, monospace" font-size="18" font-weight="800" fill="#5b8cff" text-anchor="middle">{ }</text>
+  <text x="120" y="234" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#e8edf6">
+    Micro<tspan fill="#5b8cff">Apps</tspan>
+  </text>
+  <text x="280" y="234" font-family="Consolas, monospace" font-size="18" fill="#9aa6b8">
+    — View My Portfolio →
   </text>
 
   <circle cx="1140" cy="150" r="80" fill="none" stroke="#232b3a" stroke-width="2"/>
